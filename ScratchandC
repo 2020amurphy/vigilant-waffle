@@ -1,0 +1,13 @@
+What is a double equal sign in C? Example: ( x == y ) 
+  The double equal signs is a check and returns a true or false if the two variable hold the same value 
+Why do you need the keyword true in order to create a forever loop? 
+  Everytime the boolean is executed it always treurns true therefore the loop will run forever
+What are the three inputs required to use a for loop (be able to verbally communicate/explain these three inputs)
+  o write a loop that runs a specific number of times, we use the for keyword, and first, 
+  we create a variable named i and set it to 0. 
+  i is a conventional name for a variable that keeps track of how many iterations of the loop we’ve already done. 
+  Then, we check that i < 50 every time we reach the top of the loop, before we run any of the code inside. 
+  If that expression is true, then we run the code inside. 
+  Finally, after we run the code inside, we use i++ to add one to i, and the loop repeats.
+What does a % mean in the printf function? 
+  % is a placeholder or different elements such as strings, ints, or floats that will be aded later. 
